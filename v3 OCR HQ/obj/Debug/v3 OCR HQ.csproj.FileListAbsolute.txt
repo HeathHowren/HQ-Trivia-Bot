@@ -1,0 +1,96 @@
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\v3 OCR HQ.exe.config
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\v3 OCR HQ.exe
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\v3 OCR HQ.pdb
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\obj\Debug\v3 OCR HQ.csprojAssemblyReference.cache
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\obj\Debug\v3_OCR_HQ.Form1.resources
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\obj\Debug\v3_OCR_HQ.Properties.Resources.resources
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\obj\Debug\v3 OCR HQ.csproj.GenerateResource.cache
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\obj\Debug\v3 OCR HQ.csproj.CoreCompileInputs.cache
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\obj\Debug\v3 OCR HQ.exe
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\obj\Debug\v3 OCR HQ.pdb
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\x64\liblept172.dll
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\x64\libtesseract304.dll
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\x86\liblept172.dll
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\x86\libtesseract304.dll
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Tesseract.dll
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Tesseract.xml
+c:\users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\obj\Debug\v3 OCR HQ.csproj.CopyComplete
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Google.Apis.Core.dll
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Google.Apis.Customsearch.v1.dll
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Google.Apis.dll
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Google.Apis.pdb
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Google.Apis.xml
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Google.Apis.Core.pdb
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Google.Apis.Core.xml
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Google.Apis.Customsearch.v1.pdb
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Google.Apis.Customsearch.v1.xml
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\HtmlAgilityPack.dll
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\rainb\source\repos\v3 OCR HQ\v3 OCR HQ\bin\Debug\HtmlAgilityPack.xml
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\x64\liblept172.dll
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\x64\libtesseract304.dll
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\x86\liblept172.dll
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\x86\libtesseract304.dll
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\v3 OCR HQ.exe.config
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\v3 OCR HQ.exe
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\v3 OCR HQ.pdb
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Google.Apis.Core.dll
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Google.Apis.Customsearch.v1.dll
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Google.Apis.dll
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\HtmlAgilityPack.dll
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Tesseract.dll
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Google.Apis.pdb
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Google.Apis.xml
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Google.Apis.Core.pdb
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Google.Apis.Core.xml
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Google.Apis.Customsearch.v1.pdb
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Google.Apis.Customsearch.v1.xml
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\HtmlAgilityPack.xml
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\bin\Debug\Tesseract.xml
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\obj\Debug\v3 OCR HQ.csprojAssemblyReference.cache
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\obj\Debug\v3_OCR_HQ.Form1.resources
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\obj\Debug\v3_OCR_HQ.Properties.Resources.resources
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\obj\Debug\v3 OCR HQ.csproj.GenerateResource.cache
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\obj\Debug\v3 OCR HQ.csproj.CoreCompileInputs.cache
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\obj\Debug\v3 OCR HQ.csproj.CopyComplete
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\obj\Debug\v3 OCR HQ.exe
+C:\Users\rainb\source\repos\v3 OCR HQ - Copy\v3 OCR HQ\obj\Debug\v3 OCR HQ.pdb
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\x64\liblept172.dll
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\x64\libtesseract304.dll
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\x86\liblept172.dll
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\x86\libtesseract304.dll
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\v3 OCR HQ.exe.config
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\v3 OCR HQ.exe
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\v3 OCR HQ.pdb
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Google.Apis.Core.dll
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Google.Apis.Customsearch.v1.dll
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Google.Apis.dll
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\HtmlAgilityPack.dll
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Tesseract.dll
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Google.Apis.pdb
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Google.Apis.xml
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Google.Apis.Core.pdb
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Google.Apis.Core.xml
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Google.Apis.Customsearch.v1.pdb
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Google.Apis.Customsearch.v1.xml
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\HtmlAgilityPack.xml
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\bin\Debug\Tesseract.xml
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\obj\Debug\v3 OCR HQ.csprojAssemblyReference.cache
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\obj\Debug\v3_OCR_HQ.Form1.resources
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\obj\Debug\v3_OCR_HQ.Properties.Resources.resources
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\obj\Debug\v3 OCR HQ.csproj.GenerateResource.cache
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\obj\Debug\v3 OCR HQ.csproj.CoreCompileInputs.cache
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\obj\Debug\v3 OCR HQ.csproj.CopyComplete
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\obj\Debug\v3 OCR HQ.exe
+C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\obj\Debug\v3 OCR HQ.pdb
