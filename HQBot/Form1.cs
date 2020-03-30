@@ -1,23 +1,12 @@
-﻿/*
-Cyborg Elf 2019
-https://www.youtube.com/c/cyborgelf
-
-This code is very poor in effeciency; I created this as one of my first projects and haven't touched it in many years.
-It still has lots of work to be done to make it a full "application". When I stopped this projected it was still a work in progress and in its demo phase of development. 
-
-Here is a video of me doing a demo of the project: https://www.youtube.com/watch?v=H1d8a3lrSyk&index=12&t=0s&list=PLzBukBmD3GxsxNv2AFV8Ik9kj50CTKEW-
- **/
-
-using System;
+﻿using System;
+using System.IO;
+using System.Net;
 using System.Drawing;
 using System.Windows.Forms;
 using System.Diagnostics;
 using System.Drawing.Imaging;
-using System.IO;
-using System.Net;
-using Tesseract;
 using System.Text.RegularExpressions;
-//You may need to go into NuGet and add some of these packages
+using Tesseract; //NuGet package
 
 namespace v3_OCR_HQ
 {
@@ -60,7 +49,7 @@ namespace v3_OCR_HQ
             bmpScreenshot.Save("OCR.png", System.Drawing.Imaging.ImageFormat.Png);
         }
 
-        public void Tesseract() //Tesseract is a OCR NuGet package, it scans the image and turns it into a string
+        public void Tesseract()
         {
             //The OCR/Screnshot mechanics were always fidgety, so there is a lot of room to improve here!
             const string tessDataDir = @"C:\Users\rainb\source\repos\V3 OCR HQ Trivia\v3 OCR HQ\tessdata"; //Change this path to match your PC
@@ -86,7 +75,7 @@ namespace v3_OCR_HQ
        public void HTMLparse() //This code googles the question using a custom search engine and Regex matches for the most occuring keywords (answers).
        {
             //string correctString = Question.Replace(" ", "+").Replace("\n", "-").Replace("'", "").Replace("?", "");  //I didn't use this in my code, but I'll leave it in case you want it.
-            string link = "https://www.googleapis.com/customsearch/enter-your-own-api-here" + Question; //I use a custom google search engine api, you must make your own account with google and put your custom search engine API link in. Creating the custom search engine is super easy on their site... https://developers.google.com/custom-search/
+            string link = "https://www.googleapis.com/customsearch/enter-your-own-api-here" + Question; //I use a custom google search engine api
             string pageContent = null;
             HttpWebRequest myReq = (HttpWebRequest)WebRequest.Create(link);
             HttpWebResponse myres = (HttpWebResponse)myReq.GetResponse();
