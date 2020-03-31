@@ -1,4 +1,4 @@
-#  HQ Trivia Bot using OCR and Web Scraper 
+#  HQ Trivia Bot using OCR and Web Scraping
 
 ## Introduction
 
