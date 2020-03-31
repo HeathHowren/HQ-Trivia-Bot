@@ -7,7 +7,7 @@
 ## Code Samples
 
 > I implemented [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) an open source optical character recognition engine into my project.
-```
+```cpp
         public void Tesseract()
         {
             const string tessDataDir = @"C:\path\tessdata"; //Change this path to match your PC
@@ -21,7 +21,7 @@
         }
  ```
 >The application the parses the question and three answer choices into separate variables.
-```
+```cpp
         public void Seperate()
         {
             lines = text.Split(new[] { "\n\n"  }, StringSplitOptions.None);
@@ -32,14 +32,14 @@
         }
 ```
 >The question is then searched using [Googles custom search engine API](https://cse.google.com/cse/).
-```
+```cpp
     string link = "https://www.googleapis.com/customsearch/enter-your-own-api-here" + Question;\\
     string pageContent = null;
     HttpWebRequest myReq = (HttpWebRequest)WebRequest.Create(link);
     HttpWebResponse myres = (HttpWebResponse)myReq.GetResponse();
 ```
 >In the final step the search result contents are scraped and a regex match is run to find the most common answer.
-```
+```cpp
     int q1 = Regex.Matches(pageContent, Answer1).Count;
     int q2 = Regex.Matches(pageContent, Answer2).Count;
     int q3 = Regex.Matches(pageContent, Answer3).Count;
