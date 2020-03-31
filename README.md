@@ -33,7 +33,7 @@
 ```
 >The question is then searched using [Googles custom search engine API](https://cse.google.com/cse/).
 ```cpp
-    string link = "https://www.googleapis.com/customsearch/enter-your-own-api-here" + Question;\\
+    string link = "https://www.googleapis.com/customsearch/enter-your-own-api-here" + Question;
     string pageContent = null;
     HttpWebRequest myReq = (HttpWebRequest)WebRequest.Create(link);
     HttpWebResponse myres = (HttpWebResponse)myReq.GetResponse();
