@@ -20,7 +20,7 @@
             }
         }
  ```
->The application the parses the question and three answer choices into separate variables.
+>The application then parses the question and three answer choices into separate variables.
 ```cpp
         public void Seperate()
         {
