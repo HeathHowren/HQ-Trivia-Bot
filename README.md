@@ -24,7 +24,7 @@
 ```cpp
         public void Seperate()
         {
-            lines = text.Split(new[] { "\n\n"  }, StringSplitOptions.None);
+            lines = text.Split(new[] { "\n\n" }, StringSplitOptions.None);
             Question = lines[0];
             Answer1 = lines[1];
             Answer2 = lines[2];
